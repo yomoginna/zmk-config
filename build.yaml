@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: helix_left
+    shield: t_split_left
   - board: nice_nano_v2
-    shield: helix_right
+    shield: t_split_left
