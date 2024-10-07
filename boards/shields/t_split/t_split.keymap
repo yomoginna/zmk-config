@@ -38,7 +38,7 @@ As such, those are in use within the default layer at this time.*/
        &kp TAB    &kp A   &kp Z    &kp E    &kp R     &kp T                                &kp Y     &kp U     &kp I     &kp O      &kp P     &kp LBKT &kp RBKT &trans &kp PG_UP
        &trans   &kp Q   &kp S    &kp D    &kp F     &kp G                                &kp H     &kp J     &kp K     &kp L      &kp SEMI  &kp SQT &kp RET &kp PG_DN
        &kp LSHFT  &kp W   &kp X    &kp C    &kp V                                          &kp B   &kp N   &kp M   &kp COMMA &kp DOT  &kp FSLH &kp RSHFT &kp UP &kp END
-       &mo ASJUST  &kp LCTRL  &kp LALT  &kp LGUI   &kp SPACE                                            &kp SPACE   &kp RGUI   &trans   &kp RCTRL   &kp RALT   &kp LEFT   &kp DOWN   &kp RIGHT  
+       &mo ADJUST  &kp LCTRL  &kp LALT  &kp LGUI   &kp SPACE                                            &kp SPACE   &kp RGUI   &trans   &kp RCTRL   &kp RALT   &kp LEFT   &kp DOWN   &kp RIGHT  
                      >;
               };
                   adjust_layer {
