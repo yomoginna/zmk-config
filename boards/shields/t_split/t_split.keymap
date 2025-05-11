@@ -35,8 +35,8 @@ As such, those are in use within the default layer at this time.*/
                          bindings = <
        &kp ESC  &kp F1  &kp F2   &kp F3   &kp F4    &kp F5                               &kp F6    &kp F7    &kp F8    &kp F9     &kp F10    &kp F11    &kp F12    &trans    &trans    &trans 
        &kp GRAVE  &kp N1  &kp N2   &kp N3   &kp N4    &kp N5                               &kp N6    &kp N7    &kp N8    &kp N9     &kp N0    &kp MINUS    &kp EQUAL    &kp BSPC    &kp HOME   
-       &kp TAB    &kp Q   &kp W    &kp E    &kp R     &kp T                                &kp Y     &kp U     &kp I     &kp O      &kp P     &kp LBKT &kp RBKT &trans &kp PG_UP
-       &trans   &kp A   &kp S    &kp D    &kp F     &kp G                                &kp H     &kp J     &kp K     &kp L      &kp SEMI  &kp SQT &kp RET &kp PG_DN
+       &kp TAB    &kp Q   &kp W    &kp E    &kp R     &kp T                                &kp Y     &kp U     &kp I     &kp O      &kp P     &kp LBKT &kp RBKT &kp BACKSLASH &kp PG_UP
+       &kp CAPSLOCK   &kp A   &kp S    &kp D    &kp F     &kp G                                &kp H     &kp J     &kp K     &kp L      &kp SEMI  &kp SQT &kp RET &kp PG_DN
        &kp LSHFT  &kp Z   &kp X    &kp C    &kp V                                          &kp B   &kp N   &kp M   &kp COMMA &kp DOT  &kp FSLH &kp RSHFT &kp UP &kp END
        &mo ADJUST  &kp LCTRL  &kp LALT  &kp LGUI   &kp SPACE                                            &kp SPACE   &kp RGUI   &trans   &kp RCTRL   &kp RALT   &kp LEFT   &kp DOWN   &kp RIGHT  
                      >;
@@ -45,7 +45,7 @@ As such, those are in use within the default layer at this time.*/
  // ---------------------------------------------------------------------------------------------------------------------------------
  // |        |        |        |        |        |        |---------|        |        |        |        |        |        |        |        |        |        |
  // | BT CLR |BT SEL0 |BT SEL1 |BT SEL2 |BT SEL3 |BT SEL4 |---------|        |        |        |        |        |        |        |                 |        |
- // | BT NXT     |        |        |        |        |        |---------|        |        |        |        |        |        |     ]  |             |        |
+ // | BT NXT     |        |        |        |        |        |---------|        |        |        |        |        |        |        |             |        |
  // | BT PRV       |        |        |        |        |        |----------|        |        |        |        |        |        |                   |        |
  // |                  |        |        |        |        |-----------|        |        |        |        |        |        |              |        |        |
  // |        |          |          |          |               |------------|                 |        |        |        |          |        |        |        |
@@ -62,7 +62,7 @@ As such, those are in use within the default layer at this time.*/
  // ---------------------------------------------------------------------------------------------------------------------------------
  // |        |        |        |        |        |        |---------|        |        |        |        |        |        |        |        |        |        |
  // |        |        |        |        |        |        |---------|        |        |        |        |        |        |        |                 |        |
- // |            |        |        |        |        |        |---------|        |        |        |        |        |        |     ]  |             |        |
+ // |            |        |        |        |        |        |---------|        |        |        |        |        |        |        |             |        |
  // |              |        |        |        |        |        |----------|        |        |        |        |        |        |                   |        |
  // |                  |        |        |        |        |-----------|        |        |        |        |        |        |              |        |        |
  // |        |          |          |          |               |------------|                 |        |        |        |          |        |        |        |
